@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
+<img src="https://img.shields.io/badge/WebSocket-009639?style=for-the-badge&logo=WebSocket&logoColor=white">
 
 <br>
 
